@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Arghadeep
 
-🎯 B.Tech (ECE) | TINT
-
+🎯 B.Tech (ECE) | TINT 
 ⚡ Building AI-powered and scalable data-driven applications  
-
 💡 Interested in Machine Learning, Backend Systems & Full-Stack Development  
 
 ---
@@ -15,7 +13,14 @@
 ---
 
 ## 🚀 Focus
-Building AI-powered systems and scalable applications that solve real-world problems.
+Designing and building AI-powered systems that turn raw data into actionable insights and scalable solutions.
+
+---
+
+## 🚧 Currently Building
+🔹 inFera — AI-powered personal data scientist  
+🔹 End-to-end ML + Full-stack systems  
+🔹 Scalable data-driven applications  
 
 ---
 
@@ -58,8 +63,10 @@ Building AI-powered systems and scalable applications that solve real-world prob
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arghadeep2508&show_icons=true&theme=github_dark&hide_border=true&hide=stars,prs,issues,contribs)<br/>
-![](https://streak-stats.demolab.com?user=arghadeep2508&theme=github-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=arghadeep2508&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=arghadeep2508&theme=github-dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arghadeep2508&layout=compact&theme=github_dark&hide_border=true)
 
 ---
