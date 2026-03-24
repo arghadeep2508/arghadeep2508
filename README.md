@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Arghadeep
 
 🎯 B.Tech (ECE) | TINT
+
 ⚡ Building AI-powered and scalable data-driven applications  
+
 💡 Interested in Machine Learning, Backend Systems & Full-Stack Development  
 
 ---
