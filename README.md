@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 B.Tech (ECE) Student  
+🎯 B.Tech (ECE) | TINT
 💡 Building AI-powered and data-driven applications  
 ⚡ Interested in Machine Learning, Backend Systems & Full-Stack Development  
 
