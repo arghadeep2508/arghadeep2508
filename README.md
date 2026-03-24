@@ -17,13 +17,6 @@ Designing and building AI-powered systems that turn raw data into actionable ins
 
 ---
 
-## 🚧 Currently Building
-🔹 inFera — AI-powered personal data scientist  
-🔹 End-to-end ML + Full-stack systems  
-🔹 Scalable data-driven applications  
-
----
-
 ## 💻 Tech Stack
 
 ### 🧠 Languages
