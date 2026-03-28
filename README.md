@@ -2,7 +2,7 @@
 
 🎯 B.Tech (ECE) | TINT 
 ⚡ Building AI-powered and scalable data-driven applications  
-💡 Interested in Machine Learning, Backend Systems & Full-Stack Development  
+💡 Interested in Machine Learning, Backend Systems & Full-Stack Development   
 
 ---
 
